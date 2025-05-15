@@ -19,7 +19,7 @@ This project implements a simple interpreter for a custom programming language, 
 Clone the repository:
 
 ```
-git clone https://github.com/JQ0601/ocaml-language-interpreter.git
+git clone https://github.com/LWang1101/ocaml-language-interpreter.git
 cd ocaml-language-interpreter
 ```
 
